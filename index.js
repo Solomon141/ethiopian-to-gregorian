@@ -122,5 +122,3 @@ function getETYear(intGCMonth, intGCYear, intECMonth) {
     }
     return intYearTemp;
 }
-
-
