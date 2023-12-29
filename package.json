@@ -1,0 +1,28 @@
+{
+  "name": "ethiopian-to-gregorian",
+  "version": "1.0.0",
+  "description": "\"Ethiopian calendar to Gregorian and Viseversa\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solomon141/ethiopian-to-gregorian.git"
+  },
+  "keywords": [
+    "calendar",
+    "ethiopian",
+    "gregorian"
+  ],
+  "author": "Solomon Gebremichael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Solomon141/ethiopian-to-gregorian/issues"
+  },
+  "homepage": "https://github.com/Solomon141/ethiopian-to-gregorian#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
