@@ -1,5 +1,12 @@
-import { getEthiopicDate } from "./index.js";
-import { etchangetolong, etchangetofull, etchangetomedium, etchangetoshort } from "./src/et2gre/dateformats.js";
+import {
+  getEthiopicDate,
+  etchangetolong,
+  etchangetofull,
+  etchangetomedium,
+  etchangetoshort,
+} from "./index.js";
+// import { etchangetolong, etchangetofull, etchangetomedium, etchangetoshort } from "./src/et2gre/dateformats.js";
+
 const dd = getEthiopicDate(31, 3, 2023);
 console.log(dd);
 

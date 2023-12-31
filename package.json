@@ -1,6 +1,6 @@
 {
   "name": "ethiopian-to-gregorian",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "\"Ethiopian calendar to Gregorian and Viseversa\"",
   "main": "index.js",
   "type": "module",
