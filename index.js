@@ -1,3 +1,3 @@
-import getEthiopicDate from './src/gregoriantoethiopian.js'
+import getEthiopicDate from "./src/gregoriantoethiopian.js";
 
-export { getEthiopicDate }
+export { getEthiopicDate };

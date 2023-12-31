@@ -65,7 +65,9 @@ const getEthiopicDate = (intGCDay, intGCMonth, intGCYear) => {
     const Month = intECMonth;
     const Day = intECDay;
 
-    const collect = `${Year}-${Month}-${Day}`;
+    // const collect = `${Year}-${Month}-${Day}`;
+    const collect = [Year,Month,Day];
+
     return collect;
 }
 
