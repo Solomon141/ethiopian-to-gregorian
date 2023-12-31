@@ -1,8 +1,9 @@
 {
   "name": "ethiopian-to-gregorian",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "\"Ethiopian calendar to Gregorian and Viseversa\"",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js"

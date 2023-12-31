@@ -1,6 +1,4 @@
-const calendar = require("ethiopian-to-gregorian");
+import { getEthiopicDate } from "./index.js";
 
-
-
-const dd = calendar.getEthiopicDate(29, 12, 2023);
-console.log(dd)
+const dd =  getEthiopicDate(29, 12, 2023);
+console.log(dd);
