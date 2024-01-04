@@ -4,7 +4,7 @@ import {
   etchangetofull,
   etchangetomedium,
   etchangetoshort,
-} from "./index.js";
+} from "./dateconverter.js";
 // import { etchangetolong, etchangetofull, etchangetomedium, etchangetoshort } from "./src/et2gre/dateformats.js";
 
 const dd = getEthiopicDate(31, 3, 2023);

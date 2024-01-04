@@ -2,11 +2,11 @@
   "name": "ethiopian-to-gregorian",
   "version": "1.0.10",
   "description": "\"Ethiopian calendar to Gregorian and Viseversa\"",
-  "main": "index.js",
+  "main": "dateconverter.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "nodemon dateconverter.js"
   },
   "repository": {
     "type": "git",
